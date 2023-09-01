@@ -13,3 +13,8 @@ Let's:
 ---
 ### About Addie
 I love my kiddos and puppers. 
+
+### About Matt
+Matt is married to his wife Michelle (20 years!) and has two children: Ethnie (17) and Emmett(13)
+I'm pretty active, but really enjoy lounging and watching a good show/movie
+
