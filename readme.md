@@ -9,3 +9,9 @@ Let's:
 2. Add an **About Me** section to the readme.md file
 3. Push our changes up to our branches
 4. Merge branches into main
+
+---
+### About Sara
+edits and changes to the document here!
+
+I like doggos and traveling!
